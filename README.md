@@ -1,5 +1,5 @@
 ハードウェアエンジニアをやっています。  
-プログラミング勉強中で、主にC#、arduino(C++)、たまにPythonを触ってます。  
+プログラミング勉強中で、主にC#、arduino(C++)、たまにPython、JavaScriptを触ってます。  
 
 ## github status
 
