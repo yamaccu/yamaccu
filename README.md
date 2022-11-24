@@ -13,7 +13,6 @@
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/yamaccu/posts.svg)](http://qiita.com/yamaccu) 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/yamaccu/contributions.svg)](http://qiita.com/yamaccu) 
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/yamaccu/followers.svg)](http://qiita.com/yamaccu)  
 
 ## blog
 
