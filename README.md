@@ -4,9 +4,9 @@
 ## github status
 
 <p align="left"> 
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=yamaccu" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamaccu&layout=compact&exclude_repo=yamaccu.github.io,Blazor-CharjsTest" />
- <img alt="bytes" height="170px" src="https://github-repo-bytecounter.vercel.app/api?username=yamaccu&exclude=yamaccu.github.io,Blazor-CharjsTest" />
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=yamaccu" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamaccu&layout=compact&exclude_repo=yamaccu.github.io,Blazor-CharjsTest" /></a>
+ <a href="https://github.com/yamaccu/Github-Repo-ByteCounter"><img alt="bytes" height="170px" src="https://github-repo-bytecounter.vercel.app/api?username=yamaccu&exclude=yamaccu.github.io,Blazor-CharjsTest" /></a>
 </p>
 
 ## Qiita articles
