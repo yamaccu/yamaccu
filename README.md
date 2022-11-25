@@ -16,7 +16,7 @@
 
 ## blog
 
-[yokuaru Tech notes](https://yamaccu.github.io/)  
+[![yokuaru Tech notes](https://shields.io/badge/-yokuaru_Tech_notes-lightgrey)](https://yamaccu.github.io/)  
 
 
 <!--
