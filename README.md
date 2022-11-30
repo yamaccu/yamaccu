@@ -4,8 +4,8 @@
 ## github status
 
 <p align="left"> 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=yamaccu&show_icons=true" width="432px"/></a>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamaccu&layout=compact&exclude_repo=yamaccu.github.io,Blazor-CharjsTest" width="362px" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" src="https://vercel-serverless-functions-henna.vercel.app/api?username=yamaccu&show_icons=true" width="432px"/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://vercel-serverless-functions-henna.vercel.app/api/top-langs?username=yamaccu&layout=compact&exclude_repo=yamaccu.github.io,Blazor-CharjsTest" width="362px" /></a>
  <a href="https://github.com/yamaccu/Github-Repo-ByteCounter"><img alt="bytes" src="https://github-repo-bytecounter.vercel.app/api?username=yamaccu&exclude=yamaccu.github.io,Blazor-CharjsTest" width="432px" /></a>
 </p>
 
