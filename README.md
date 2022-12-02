@@ -9,12 +9,12 @@
  <a href="https://github.com/yamaccu/Github-Repo-ByteCounter"><img alt="bytes" src="https://github-repo-bytecounter.vercel.app/api?username=yamaccu&exclude=yamaccu.github.io,Blazor-CharjsTest" width="432px" /></a>
 </p>
 
-## Qiita articles
+## Qiita
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/yamaccu/posts.svg)](http://qiita.com/yamaccu) 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/yamaccu/contributions.svg)](http://qiita.com/yamaccu) 
 
-## ProtoPedia works
+## ProtoPedia
 
 [![ProtoPedia posts](https://vercel-serverless-functions-henna.vercel.app/api/protopedia?username=yamaccu&post=true)](https://protopedia.net/prototyper/yamaccu) 
 [![ProtoPedia views](https://vercel-serverless-functions-henna.vercel.app/api/protopedia?username=yamaccu&view=true)](https://protopedia.net/prototyper/yamaccu) 
