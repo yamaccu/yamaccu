@@ -12,7 +12,7 @@
 ## Output
 ### Qiita
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/yamaccu/posts.svg)](http://qiita.com/yamaccu) 
+[![My Qiita posts](https://img.shields.io/badge/dynamic/json?color=blightgreen&label=Qiita%20posts&query=items_count&url=https://qiita.com/api/v2/users/yamaccu)](http://qiita.com/yamaccu) 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/yamaccu/contributions.svg)](http://qiita.com/yamaccu) 
 
 ### ProtoPedia
